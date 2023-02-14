@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oson9HeM/6p9w+GhNWWWq7ExMX48jLxR5YVosUbTxMH2mqE8erZtyoLjJ48+TE4GVE4LTxmUiEUOv6INPfBZxw==",
+  "success": true,
+  "projectFilePath": "/Users/allisonjones/Projects/OMDB/OMDB/OMDB.csproj",
+  "expectedPackageFiles": [
+    "/Users/allisonjones/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
